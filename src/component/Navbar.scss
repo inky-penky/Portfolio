@@ -1,3 +1,6 @@
 div span {
   cursor: pointer;
 }
+div span:hover .text-2xl {
+  color: white;
+}
