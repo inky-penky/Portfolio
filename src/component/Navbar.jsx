@@ -7,7 +7,7 @@ import './Navbar.scss'
 
 const Navbar = () => {
   return (
-    <div className='grid gap-10 right-6 top-40 fixed'>
+    <div className='grid gap-5 right-6 top-40 fixed'>
 
       <span className='p-4 bg-gray-800 rounded-full hover:bg-green-500'><a href="#"><FontAwesomeIcon icon={faHome} className='text-2xl text-gray-400 hover:text-w'></FontAwesomeIcon></a></span><p className='text-white text font-bold'>Home</p>
       
